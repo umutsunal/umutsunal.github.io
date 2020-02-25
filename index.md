@@ -1,25 +1,18 @@
-## Welcome to GitHub Pages
+## Capture the Treasure!
 
-You can use the [editor on GitHub](https://github.com/umutsunal/umutsunal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This game is developed in WebGL2, and compatible with the web browsers. The aim is to leave the room, and obtain the treasure chest by completing the parkour. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Note: This game is still in development. The game below isn't the full version.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Controls
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- W, A, S, D for moving.
+- E for interacting with objects.
+- 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+**asd**
 
 **Bold** and _Italic_ and `Code` text
 
