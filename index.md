@@ -21,14 +21,9 @@ Note: This game is still in development. The game below isn't the full version.
 
 - Numpad +,- to adjust the light intensity.
 - J to change shading mode (graphic mode).
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
+<a href="https://umutsunal.github.io/webgl2-platformer/">Capture the Treasure!</a>
 
 
 
