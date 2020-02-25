@@ -17,6 +17,7 @@ Note: This game is still in development. The game below isn't the full version.
 - SpaceBar to jump.
 - LeftShift to sprint.
 - E for interacting with objects and picking objects.
+- C to fix the camera while an object is picked. (Using is not mandatory). 
 - Z to return to current checkpoint. (Checkpoints are activated interacting with levers.)
 
 - Numpad +,- to adjust the light intensity.
