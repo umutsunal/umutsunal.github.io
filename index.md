@@ -1,6 +1,6 @@
 ## Capture the Treasure!
 
-This game is developed in WebGL2, and compatible with the web browsers. In addition, **Three.js** and **Cannon.js** public JS libraries are used in development.
+This game is developed in WebGL2, and compatible with the web browsers. (Not compatible with mobile, for now.) In addition, **Three.js** and **Cannon.js** public JS libraries are used in development.
 
 The aim is to leave the room, and obtain the treasure chest by completing the parkour.
 
@@ -25,6 +25,9 @@ Note: This game is still in development. The game below isn't the full version.
 ```
 
 <a href="https://umutsunal.github.io/webgl2-platformer/">Capture the Treasure!</a>
+
+
+Hint: You can activate the lamps in the room to see better.
 
  
 
