@@ -25,5 +25,5 @@ Note: This game is still in development. The game below isn't the full version.
 
 <a href="https://umutsunal.github.io/webgl2-platformer/">Capture the Treasure!</a>
 
-
+ 
 
